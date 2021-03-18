@@ -15,5 +15,5 @@ node app
 ```
 ## Nota 2
 
-En el proyecto hay una carpeta de "db" en la cual esta alojado el archivo data.json para tener un respaldo de los datos y que esdtos sean persistentes
+En el proyecto hay una carpeta de "db" en la cual esta alojado el archivo data.json para tener un respaldo de los datos y que estos sean persistentes
 
